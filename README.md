@@ -1,214 +1,164 @@
 # 🚀 IBM AI Product Management — Premium Portfolio
-## 📘 Courses Completed
-Below is the full list of the 10 courses included in the program:
-1. **Product Management: An Introduction**
-2. **Product Management: Foundations & Stakeholder Collaboration**
-3. **Product Management: Initial Product Strategy and Plan**
-4. **Product Management: Developing and Delivering a New Product**
-5. **Introduction to Artificial Intelligence (AI)**
-6. **Generative AI: Introduction and Applications**
-7. **Generative AI: Prompt Engineering Basics**
-8. **Generative AI: Foundation Models and Platforms**
-9. **Product Management: Building AI-Powered Products**
-10. **Generative AI: Supercharge Your Product Management Career**
 
+This repository contains the complete collection of materials, labs, and strategic documents created while completing the **IBM AI Product Manager Professional Certificate** program. It showcases practical work in **AI Product Strategy, Generative AI applications, product roadmapping, go-to-market planning, and ethical AI analysis**.
 
 ---
 
+## 🏆 Professional Certificate
+
+**IBM AI Product Manager** — Completed November 17, 2025
+
+This certificate validates hands-on proficiency in:
+
+- AI-driven product lifecycle management  
+- Strategy development for AI/GenAI-powered products  
+- Prompt engineering and LLM application design  
+- Ethical and responsible AI frameworks  
+- Product strategy, planning, and stakeholder collaboration  
+- Market analysis and AI opportunity identification  
+- Experimentation, prototyping, and MVP development  
+
+---
+
+## 📘 Courses Completed
+
+1. **Product Management: An Introduction**  
+2. **Product Management: Foundations & Stakeholder Collaboration**  
+3. **Product Management: Initial Product Strategy and Plan**  
+4. **Product Management: Developing and Delivering a New Product**  
+5. **Introduction to Artificial Intelligence (AI)**  
+6. **Generative AI: Introduction and Applications**  
+7. **Generative AI: Prompt Engineering Basics**  
+8. **Generative AI: Foundation Models and Platforms**  
+9. **Product Management: Building AI-Powered Products**  
+10. **Generative AI: Supercharge Your Product Management Career**  
+
+---
 
 ## 💼 Product Management Skills Demonstrated
-### **AI & Generative AI Skills**
-- Building AI/LLM-powered product concepts and prototypes
-- Techniques in prompt engineering (Interview Pattern, CoT, ReAct, Tree-of-Thought)
-- Hands-on experience with tools like OpenAI, IBM Watson, DALL·E
-- Understanding foundation models, embeddings, vector databases, RAG
-- Designing GenAI user experiences and value propositions
 
+### AI & Generative AI Skills
 
-### **Product Strategy & Leadership**
-- Vision, mission, and North Star metric development
-- Market opportunity and competitor analysis
-- AI transformation planning for existing products
-- Feature prioritization using RICE, MoSCoW, Kano
-- Go-To-Market (GTM) strategy creation
+- Designing AI/LLM-powered product concepts  
+- Applying prompt engineering techniques in product workflows  
+- Exploring foundation models and GenAI platforms  
+- Understanding RAG-style architectures at a product level  
+- Designing GenAI user experiences and value propositions  
 
+### Product Strategy & Leadership
 
-### **Product Execution**
-- Story writing and backlog development
-- Customer journey mapping
-- Wireframing and prototyping
-- AI risk assessment and model evaluation
-- Leading cross-functional teams
+- Market and competitive analysis (incl. Porter’s Five Forces)  
+- AI opportunity mapping and value hypothesis creation  
+- Business case and PR/communications planning  
+- Feature prioritization using RICE, MoSCoW, Kano  
+- Go-To-Market (GTM) and lifecycle strategy  
 
+### Product Execution
+
+- Product charter, MRD, and concept documents  
+- Customer journey mapping and use-case design  
+- Roadmapping and launch planning  
+- Beta, demand generation, and end-of-life (EOL) planning  
+- AI risk assessment, bias analysis, and scenario evaluation  
 
 ---
-
 
 ## 📂 Repository Contents
-```
-📁 /notes — Detailed course notes and summaries
-📁 /projects — Full project submissions, case studies, and prototypes
-📁 /frameworks — PM templates, LLM prompt systems, strategy docs
-📁 /roadmaps — AI Product Roadmaps & lifecycle planning files
-📁 /artifacts — Personas, JTBD analysis, user research materials
-📄 README.md — Premium portfolio overview
-```
 
+Currently, the repository consists of **PDF artifacts from the IBM program**, grouped conceptually as follows:
+
+### 🔹 Strategy & Business Case
+
+- `Andrejs_Verhovods Final Lab Five Forces Model.pdf`  
+- `Final-Lab-Product-Evaluation-Worksheet.pdf`  
+- `Scenario-Evaluation-Worksheet*.pdf`  
+- `Final Project Worksheet.pdf`  
+
+### 🔹 Product Discovery & Concept Development
+
+- `Product Concept Worksheet2.pdf`  
+- `Product-Concept-Evaluation-Worksheet.pdf`  
+- `Process Streamlining Worksheet.pdf`  
+- `Customer Support Use Case Worksheet.pdf`  
+- `Adoption of GenAI in Day to Day Life.pdf`  
+
+### 🔹 Product Documentation
+
+- `Final Lab Blank Initial Project Charter Template.pdf`  
+- `Final Lab Develop a Product Concept Document Template.pdf`  
+- `Final Lab Develop an MRD Template.pdf`  
+
+### 🔹 Go-To-Market & Lifecycle Planning
+
+- `Final Lab Illustrate a Product Roadmap.pdf`  
+- `Lab Launch Plan Format.pdf`  
+- `Lab Demand Generation Plan Format.pdf`  
+- `Lab Beta Plan Format.pdf`  
+- `Lab End-of-Life (EOL) Planning Format.pdf`  
+- `Andrejs_Verhovods Final Lab PR Plan.pdf`  
+- `Andrejs_Verhovods_ Final Lab Develop and Elevator Speech.pdf`  
+
+### 🔹 Ethics & Skills
+
+- `Ethical and Bias Analysis Worksheet.pdf`  
+- `Andrejs_Verhovods Final Lab Product Manager Skills Checklist.pdf`  
+
+> Future iterations of this repository will include structured folders such as `/notes`, `/frameworks`, `/projects`, and `/roadmaps` with markdown versions of these documents.
 
 ---
 
+## 🧠 Featured Learning Projects
 
-## 🧠 Featured Projects
-### **1. AI-Powered Product Concept (Capstone)**
-End-to-end creation of a real AI product, including:
-- Problem space definition & JTBD analysis
-- Value proposition design
-- Ethical AI considerations
-- Feature roadmap & prototype description
-- Launch plan & KPIs
+### 1. IBM AI Product Management Coursework Portfolio
 
+A consolidated portfolio of all key labs and assignments across the 10-course IBM program, including market analysis, product concept development, AI use-case worksheets, ethical AI analysis, and full product lifecycle planning.
 
-### **2. LLM Product Strategy Case Study**
-Designed strategy for integrating GenAI into an existing product. Includes:
-- Use-case mapping
-- ROI estimation
-- Risk & bias evaluation
-- High-level architecture with RAG
+**Artifacts in this repo:**  
+Five Forces analysis, product concept & evaluation worksheets, process streamlining, customer support AI use case, bias and scenario evaluation, skills checklist, and more.
 
+### 2. AI Product Strategy & Business Case (IBM Labs)
 
-### **3. Prompt Engineering Playbook**
-A curated set of reusable prompts and systems:
-- Interview Pattern
-- Chain-of-Thought (CoT)
-- Zero-shot/One-shot/Refinement prompts
-- Product-thinking LLM frameworks
+Set of documents that guide an AI product from **market analysis** to **business case** and **product evaluation**, including:
 
+- Porter’s Five Forces model  
+- Product evaluation worksheets  
+- Final project worksheet (strategy consolidation)  
+
+This work demonstrates the ability to reason about competitive dynamics, value propositions, and AI product viability.
+
+### 3. AI Product Lifecycle & Go-To-Market Planning
+
+A complete lifecycle view of an AI product, from roadmap to launch and end-of-life:
+
+- Product roadmap illustration  
+- Launch plan, demand generation plan, and beta plan  
+- PR plan and elevator pitch  
+- End-of-Life (EOL) plan  
+
+These artifacts show experience building **coherent, end-to-end go-to-market plans** for AI solutions.
 
 ---
-
 
 ## 🌟 Why This Repository Exists
-This repo serves as:
-- A **portfolio** showcasing professional-level AI/PM expertise
-- A **knowledge base** for continued AI Product Management growth
-- A **resource hub** for building and refining real AI products
 
+This repo serves as:
+
+- A **portfolio** showcasing real deliverables from an AI Product Management program  
+- A **knowledge base** of frameworks for AI product discovery, strategy, and launch  
+- A **starting point** for future, more advanced AI product case studies and prototypes  
 
 ---
-
 
 ## 🔗 Verification
-This certificate can be verified via the official Coursera/IBM link included in the certificate document.
 
+This certificate can be verified via the official Coursera/IBM credential link that accompanies the **IBM AI Product Manager Professional Certificate**.
 
 ---
-
 
 ## ✨ Connect & Collaborate
+
 If you're working on AI-driven products, research, or innovation and want to collaborate — feel free to reach out.
 
+> **“AI is not just a tool — it's a multiplier of vision. The product manager defines the vision.”**
 
----
-
-
-### **"AI is not just a tool — it's a multiplier of vision. The product manager defines the vision."**
-### **AI & ML Platforms**
-- Whimsical
-- Lucidchart
-
-
-### **Product & Project Tools**
-- Jira / Confluence
-- Notion
-- Trello
-- GitHub Projects
-
-
-### **Data & Engineering Basics**
-- Python (AI product-oriented tasks)
-- REST APIs & JSON
-- Vector databases (Pinecone, FAISS)
-- RAG Architecture fundamentals
-
-
----
-
-
-## 📈 Career Narrative — AI Product Manager
-### **My Professional Positioning**
-AI Product Manager skilled in transforming business challenges into AI-powered solutions. Combines technical understanding of LLMs & ML pipelines with strong product strategy, design thinking, and leadership.
-
-
-### **Core Strengths**
-- Strategic Vision & Market Insight
-- Outcome-Driven Product Roadmaps
-- Technical Fluency in AI Systems
-- Deep Understanding of GenAI UX
-- Ethical AI Decision-Making
-- Clear Communication Between Business & Engineering
-
-
----
-
-
-## 🧭 Visual Roadmap — AI Product Manager Journey
-```
-Product Foundations → AI Fundamentals → GenAI Expertise →
-Product Strategy & Roadmapping → Prototyping AI Solutions →
-Ethical AI & Governance → Full AI Product Portfolio
-```
-
-
----
-
-
-## 🔖 Professional Badges
-![Product Management](https://img.shields.io/badge/Product_Management-Expert-blue)
-![AI Product](https://img.shields.io/badge/AI_Product_Manager-Certified-green)
-![Generative AI](https://img.shields.io/badge/Generative_AI-Specialist-purple)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-Strategic-orange)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-yellow)
-
-
----
-
-
-## 🧩 Additional Frameworks Included
-### **AI Product Strategy Framework**
-- Problem → Insight → Hypothesis → AI Capability Mapping → Risks → Roadmap → Metrics
-
-
-### **LLM Feature Evaluation Checklist**
-- Feasibility
-- Data requirements
-- Expected value
-- Ethical risks
-- UX constraints
-
-
-### **AI Opportunity Map**
-A matrix mapping business processes to possible GenAI enhancements.
-
-
----
-
-
-## 🗺️ Long-Term AI PM Development Plan
-- Specialization in multimodal model products
-- Building full RAG-based applications
-- Leading AI/ML product teams
-- Developing proprietary AI-driven features
-- Becoming a Senior/Lead AI Product Manager
-
-
----
-
-
-## 🤝 Open for Collaboration
-If you are working on AI products, GenAI solutions, or product innovation — I am open to discussing collaboration, co-building, and product strategy insights.
-
-
----
-
-
-**Crafted with precision, strategy, and a passion for AI-driven innovation.**
+Crafted with precision, strategy, and a passion for AI-driven innovation.
